@@ -30,20 +30,4 @@ public class Main {
     }
 
 
-
-//
-//    Welcome to the Bakery.
-//    We currently have Muffins, Donuts
-//    Would you like to add an item (q to quit)?
-//    cakes
-//    Would you like to add an item (q to quit)?
-//    rolls
-//    Would you like to add an item (q to quit)?
-//    breads
-//    Would you like to add an item (q to quit)?
-//    q
-//
-//    Great!
-//    We currently have breads, Donuts, cakes, Muffins, rolls
-
 }
